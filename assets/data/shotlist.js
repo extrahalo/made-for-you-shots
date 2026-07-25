@@ -11,7 +11,7 @@ window.SHOTLIST = [
   "scene": "Открытие фильма",
   "title": "Резец по дереву",
   "shotType": "insert",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [],
   "synopsis": "Чёрный экран, только звук. Экстремальный крупный план резца, снимающего стружку.",
   "audio": "Скобление резца, щелчок пружины, тихий звон механизма.",
@@ -23,7 +23,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Мастерская просыпается",
   "shotType": "wide",
-  "runtime": "5s",
+  "runtime": "2s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -65,7 +65,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Пальцы на тугой клавише",
   "shotType": "close-up",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -91,7 +91,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Ключик не поворачивается",
   "shotType": "close-up",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -119,7 +119,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Отец придерживает",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06",
    "CH-ARMAN38"
@@ -134,7 +134,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Взгляд отца: ключ, ладонь, выключатель",
   "shotType": "close-up",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -148,7 +148,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Монтаж: рождается рычаг",
   "shotType": "insert",
-  "runtime": "5s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -162,7 +162,7 @@ window.SHOTLIST = [
   "scene": "Мастерская на рассвете",
   "title": "Насадка на ключ",
   "shotType": "insert",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -191,7 +191,7 @@ window.SHOTLIST = [
   "scene": "Мастерская, следующее утро",
   "title": "Она заводит птицу сама",
   "shotType": "close-up",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -217,7 +217,7 @@ window.SHOTLIST = [
   "scene": "Мастерская, следующее утро",
   "title": "Отец не вмешивается",
   "shotType": "reaction",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -246,7 +246,7 @@ window.SHOTLIST = [
   "scene": "Площадка у детского центра",
   "title": "Девочка зовёт к верёвкам",
   "shotType": "medium",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -260,7 +260,7 @@ window.SHOTLIST = [
   "scene": "Площадка у детского центра",
   "title": "Дети взлетают вверх",
   "shotType": "wide",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [],
   "synopsis": "Дети быстро поднимаются по верёвочной конструкции.",
   "audio": "Натяжение верёвки, топот.",
@@ -370,7 +370,7 @@ window.SHOTLIST = [
   "scene": "Кабинет врача",
   "title": "Айлин рисует птицу",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06",
    "CH-ARMAN38"
@@ -399,7 +399,7 @@ window.SHOTLIST = [
   "scene": "Кабинет врача",
   "title": "Ладонями по полу",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -413,7 +413,7 @@ window.SHOTLIST = [
   "scene": "Кабинет врача",
   "title": "Руками по бёдрам",
   "shotType": "close-up",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -467,7 +467,7 @@ window.SHOTLIST = [
   "scene": "Кабинет врача",
   "title": "Две ладони на стекле",
   "shotType": "close-up",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN06",
    "CH-ARMAN38"
@@ -482,7 +482,7 @@ window.SHOTLIST = [
   "scene": "Кабинет физиотерапии",
   "title": "Показ мягкой поддержки локтя",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "5s",
   "refs": [
    "CH-AILIN06",
    "CH-ARMAN38"
@@ -597,7 +597,7 @@ window.SHOTLIST = [
   "scene": "Квартира: бытовые адаптации",
   "title": "Лёгкая чашка",
   "shotType": "insert",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN06"
   ],
@@ -738,7 +738,7 @@ window.SHOTLIST = [
   "scene": "Упаковка заказов",
   "title": "Знак птицы на коробке",
   "shotType": "insert",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [],
   "synopsis": "Она приклеивает на коробку маленький знак птицы.",
   "audio": "Лента.",
@@ -806,7 +806,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: Айлин 16",
   "title": "Вид сверху на верстак",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "5s",
   "refs": [
    "CH-AILIN16",
    "CH-ARMAN38"
@@ -821,7 +821,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: Айлин 16",
   "title": "«Дай мне попробовать»",
   "shotType": "medium",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN16",
    "CH-ARMAN38"
@@ -923,7 +923,7 @@ window.SHOTLIST = [
   "scene": "Зимнее крыльцо",
   "title": "Зимний общий план у дома",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN38"
   ],
@@ -987,7 +987,7 @@ window.SHOTLIST = [
   "scene": "Зимнее крыльцо",
   "title": "Треснувшее крыло подарка",
   "shotType": "insert",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [],
   "synopsis": "Рядом падает недоделанное деревянное крыло подарка и трескается.",
   "audio": "Треск дерева.",
@@ -999,7 +999,7 @@ window.SHOTLIST = [
   "scene": "Больничная палата",
   "title": "Двигается только один палец",
   "shotType": "close-up",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1014,7 +1014,7 @@ window.SHOTLIST = [
   "scene": "Реабилитационный кабинет",
   "title": "Лёгкий деревянный цилиндр",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -1028,7 +1028,7 @@ window.SHOTLIST = [
   "scene": "Реабилитационный кабинет",
   "title": "Цилиндр падает",
   "shotType": "close-up",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -1042,7 +1042,7 @@ window.SHOTLIST = [
   "scene": "Реабилитационный кабинет",
   "title": "Дочь смотрит через стекло",
   "shotType": "medium",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23"
   ],
@@ -1108,7 +1108,7 @@ window.SHOTLIST = [
   "scene": "Дом: автоматика",
   "title": "Машина завершает действие за него",
   "shotType": "close-up",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -1150,7 +1150,7 @@ window.SHOTLIST = [
   "scene": "Тёмная мастерская",
   "title": "Он выключает свет и уезжает",
   "shotType": "wide",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -1164,7 +1164,7 @@ window.SHOTLIST = [
   "scene": "Замолкшая мастерская",
   "title": "Пыль на инструментах",
   "shotType": "insert",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [],
   "synopsis": "Дни сменяются светом и тенью; на инструментах появляется пыль.",
   "audio": "Едва слышный городской фон.",
@@ -1176,7 +1176,7 @@ window.SHOTLIST = [
   "scene": "Замолкшая мастерская",
   "title": "Коробки больше не забирают",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [],
   "synopsis": "Готовые коробки больше не забирают; на дверной ручке висит детский рисунок, оставленный посетителем.",
   "audio": "Городской фон.",
@@ -1216,7 +1216,7 @@ window.SHOTLIST = [
   "scene": "Замолкшая мастерская",
   "title": "Айлин находит птицу и сломанное крыло",
   "shotType": "medium",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23"
   ],
@@ -1230,7 +1230,7 @@ window.SHOTLIST = [
   "scene": "Замолкшая мастерская",
   "title": "Приспособления на столе",
   "shotType": "insert",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23"
   ],
@@ -1313,7 +1313,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: демонстрация робота",
   "title": "Он пододвигает свою птицу",
   "shotType": "close-up",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -1431,7 +1431,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: прототипы",
   "title": "Первый тест тянет плечи назад",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "5s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1446,7 +1446,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: прототипы",
   "title": "Она сразу снимает систему",
   "shotType": "medium",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1475,7 +1475,7 @@ window.SHOTLIST = [
   "scene": "Мастерская: прототипы",
   "title": "Она уменьшает усиление",
   "shotType": "insert",
-  "runtime": "3s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23"
   ],
@@ -1530,7 +1530,7 @@ window.SHOTLIST = [
   "scene": "Обновлённая мастерская",
   "title": "Айлин открывает шторы",
   "shotType": "wide",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23"
   ],
@@ -1556,7 +1556,7 @@ window.SHOTLIST = [
   "scene": "Обновлённая мастерская",
   "title": "Она надевает экзоскелет",
   "shotType": "medium",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1801,7 +1801,7 @@ window.SHOTLIST = [
   "scene": "Площадка будущего",
   "title": "Та же площадка, ближайшее будущее",
   "shotType": "wide",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1840,7 +1840,7 @@ window.SHOTLIST = [
   "scene": "Площадка будущего",
   "title": "Дети собирают большую птицу",
   "shotType": "wide",
-  "runtime": "5s",
+  "runtime": "4s",
   "refs": [],
   "synopsis": "На месте, где Айлин когда-то сидела одна, дети вместе собирают большую механическую птицу.",
   "audio": "Щелчок механизма и общий смех.",
@@ -1891,7 +1891,7 @@ window.SHOTLIST = [
   "scene": "Площадка будущего",
   "title": "Камера поднимается над площадкой",
   "shotType": "wide",
-  "runtime": "6s",
+  "runtime": "5s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1906,7 +1906,7 @@ window.SHOTLIST = [
   "scene": "Домашние тестовые видео",
   "title": "Снимают лишнюю деталь",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1921,7 +1921,7 @@ window.SHOTLIST = [
   "scene": "Домашние тестовые видео",
   "title": "Несовершенный дубль и смех",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [
    "CH-AILIN23",
    "CH-ARMAN55"
@@ -1936,7 +1936,7 @@ window.SHOTLIST = [
   "scene": "Пользователи устройства",
   "title": "Пожилая женщина снова рисует",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [],
   "synopsis": "Пожилая женщина снова рисует кистью.",
   "audio": "Кисть по бумаге.",
@@ -1948,7 +1948,7 @@ window.SHOTLIST = [
   "scene": "Пользователи устройства",
   "title": "Подросток держит смычок",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [],
   "synopsis": "Подросток держит смычок.",
   "audio": "Одна протяжная нота.",
@@ -1960,7 +1960,7 @@ window.SHOTLIST = [
   "scene": "Пользователи устройства",
   "title": "Мастер после травмы собирает часы",
   "shotType": "insert",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [],
   "synopsis": "Мастер после травмы собирает часы.",
   "audio": "Крошечные детали.",
@@ -1972,7 +1972,7 @@ window.SHOTLIST = [
   "scene": "Пользователи устройства",
   "title": "Ребёнок запускает доступную птицу",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "2s",
   "refs": [],
   "synopsis": "Ребёнок запускает доступную деревянную игрушку.",
   "audio": "Деревянный перезвон.",
@@ -1984,7 +1984,7 @@ window.SHOTLIST = [
   "scene": "Рост мастерской",
   "title": "Комната становится студией",
   "shotType": "wide",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [],
   "synopsis": "Домашняя комната постепенно превращается в небольшую студию инклюзивного дизайна. На стене остаётся первый рычаг выключателя.",
   "audio": "Уверенный, но не рекламный подъём.",
@@ -2008,7 +2008,7 @@ window.SHOTLIST = [
   "scene": "Рост мастерской",
   "title": "Отец обучает новых мастеров",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [
    "CH-ARMAN55"
   ],
@@ -2022,7 +2022,7 @@ window.SHOTLIST = [
   "scene": "Другой дом",
   "title": "Ребёнок запускает птицу",
   "shotType": "medium",
-  "runtime": "4s",
+  "runtime": "3s",
   "refs": [],
   "synopsis": "В другом доме маленький ребёнок со слабостью рук запускает доступную птицу.",
   "audio": "Деревянный механизм.",
